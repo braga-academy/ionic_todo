@@ -1,4 +1,4 @@
-export enum TarefaState{
+export enum TaskState{
     NOVA,
     EXECUTANDO,
     FINALIZADA
